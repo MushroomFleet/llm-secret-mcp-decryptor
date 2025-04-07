@@ -2,6 +2,9 @@
 
 A standalone tool for decrypting files created by the LLM-Secrets system. This tool enables researchers to access and analyze the private thoughts that were encrypted during the LLM interaction process.
 
+This is built to work with [llm-secret-MCP](https://github.com/MushroomFleet/llm-secret-mcp/)
+
+
 ## Features
 
 - Compatible with the encryption method used in the LLM-Secrets project
